@@ -24,4 +24,7 @@ de github.
 
 Cada modificación que se haga en el proyecto, hay que volver a actualizar con ese botón.
 Si se modifica desde otro computador, basta con apretar ese botón para que se actualice en línea. 
+
+** Para descargar el archivo de GITHUB: Abrir el repositorio y descargar todo como zip, una vez
+descargado, descomprimir y listo. 
  
