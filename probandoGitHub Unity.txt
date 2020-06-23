@@ -27,4 +27,6 @@ Si se modifica desde otro computador, basta con apretar ese botón para que se a
 
 ** Para descargar el archivo de GITHUB: Abrir el repositorio y descargar todo como zip, una vez
 descargado, descomprimir y listo. 
+
+** Cada cambio tiene que estar actualizado en el github de escritorio 
  
