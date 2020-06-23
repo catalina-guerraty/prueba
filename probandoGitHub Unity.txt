@@ -1,0 +1,27 @@
+GitHub.com
+
+Crear una cuenta (yo entre por google) 
+Se crea un repositorio y se especifíca que viene desde Unity. 
+
+Luego aparecen dos archivos: leeme y lo que ignora. 
+
+Descargar el GitHub Desktop. Poner el mismo mail y contraseña que la página de github. 
+y esto va a crear una carpeta en el escritorio del computador. 
+
+Al crear un archivo Unity, hay que fijarse que en el editor de Proyect Setting, la versión
+sea: Visible Meta Files
+y el modo sea Force text
+
+al guardar el proyecto, todo lo que está dentro del unity va a aparecer en el github de escritorio
+
+Importante: 
+En el archivo "gitignore" hay que eliminar los primeros / para que disminuya la cantidad de elementos
+a cargar al github. 
+
+Luego, en el github escritorio, se agrega un nombre a la modificación y apretar "commit to master"
+esperar a que cargue y apretar el boton de "Fetch origin" y automáticamente aparece en la página
+de github. 
+
+Cada modificación que se haga en el proyecto, hay que volver a actualizar con ese botón.
+Si se modifica desde otro computador, basta con apretar ese botón para que se actualice en línea. 
+ 
