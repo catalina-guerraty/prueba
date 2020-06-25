@@ -1,0 +1,18 @@
+comandos importantes: 
+
+1. git fetch: este comando comunica con un repositorio remoto y saca toda la información que está en ese 
+repositorio que no está en el mio actual y la almacena en la base de datos local 
+Se usa en proyectos colaborativos, donde las modificaciones pueden ser realizadas en cualquier computador parte 
+del equipo. 
+
+2. git pull: descarga el proyecto desde el repositorio remoto especificado e inmediatamente
+intentará combinarlo con la rama en la que estoy trabajando 
+
+3. git push: comunica con otro repositori, calcula lo que mi base local tiene y que la remota no y 
+sube la diferencia al repositorio remoto. 
+
+4. git remote: herramienta de gestión para el registro de repositorios remotos. Esto permite guardar 
+direcciones de url para evitar escribirlas todo el tiempo. 
+
+5. git flow: flujo de trabajo de ramas. lo que hace es unir las ramas locales a la master cuando los 
+codigos ya esten discutidos y aceptados por el equipo. 
